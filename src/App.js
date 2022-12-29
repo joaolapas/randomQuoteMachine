@@ -14,8 +14,8 @@ function App() {
   }
   const index = randomIndex(quotes)
   
-  const[quote, setQuote] = React.useState(quotes[index].text)
-  const[author, setAuthor] = React.useState(quotes[index].author)
+  const[quote, setQuote] = React.useState(quotes[101].text)
+  const[author, setAuthor] = React.useState(quotes[101].author)
 
   const colorIndex = randomIndex(colorArray)
   const color = colorArray[colorIndex]

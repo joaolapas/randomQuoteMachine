@@ -1,6 +1,6 @@
 {
-  "homepage": "https://joaolapas.github.io/Random-Quote-Machine/",
-  "name": "random-quote-machine",
+  "homepage": "http://joaolapas.github.io/randomQuoteMachine/",
+  "name": "randomQuoteMachine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
